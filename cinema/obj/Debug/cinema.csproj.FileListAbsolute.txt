@@ -1,0 +1,12 @@
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\bin\Debug\cinema.exe.config
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\bin\Debug\cinema.exe
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\bin\Debug\cinema.pdb
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.csproj.AssemblyReference.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.exe
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.pdb
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.F_MenuPrincipal.resources
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cinema\cinema\obj\Debug\cinema.Form2.resources
