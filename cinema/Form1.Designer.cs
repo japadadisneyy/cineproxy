@@ -33,7 +33,6 @@
             this.ms_Programacao = new System.Windows.Forms.ToolStripMenuItem();
             this.ms_ProgramacaoCartaz = new System.Windows.Forms.ToolStripMenuItem();
             this.ms_ProgramacaoBreve = new System.Windows.Forms.ToolStripMenuItem();
-            this.lb_EmCartaz = new System.Windows.Forms.Label();
             this.cadastroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -41,6 +40,7 @@
             this.filmesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gêneroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vendaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lb_EmCartaz = new System.Windows.Forms.Label();
             this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
@@ -132,17 +132,6 @@
             this.ms_ProgramacaoBreve.Size = new System.Drawing.Size(140, 22);
             this.ms_ProgramacaoBreve.Text = "Em breve";
             // 
-            // lb_EmCartaz
-            // 
-            this.lb_EmCartaz.AutoSize = true;
-            this.lb_EmCartaz.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_EmCartaz.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.lb_EmCartaz.Location = new System.Drawing.Point(81, 246);
-            this.lb_EmCartaz.Name = "lb_EmCartaz";
-            this.lb_EmCartaz.Size = new System.Drawing.Size(88, 18);
-            this.lb_EmCartaz.TabIndex = 2;
-            this.lb_EmCartaz.Text = "Em cartaz";
-            // 
             // cadastroToolStripMenuItem
             // 
             this.cadastroToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -161,38 +150,49 @@
             // clienteToolStripMenuItem
             // 
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.clienteToolStripMenuItem.Text = "Cliente";
             // 
             // salaToolStripMenuItem
             // 
             this.salaToolStripMenuItem.Name = "salaToolStripMenuItem";
-            this.salaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.salaToolStripMenuItem.Text = "Funcionário";
             // 
             // salasToolStripMenuItem
             // 
             this.salasToolStripMenuItem.Name = "salasToolStripMenuItem";
-            this.salasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.salasToolStripMenuItem.Text = "Salas";
             // 
             // filmesToolStripMenuItem
             // 
             this.filmesToolStripMenuItem.Name = "filmesToolStripMenuItem";
-            this.filmesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.filmesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.filmesToolStripMenuItem.Text = "Filmes";
             // 
             // gêneroToolStripMenuItem
             // 
             this.gêneroToolStripMenuItem.Name = "gêneroToolStripMenuItem";
-            this.gêneroToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gêneroToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.gêneroToolStripMenuItem.Text = "Gênero";
             // 
             // vendaToolStripMenuItem
             // 
             this.vendaToolStripMenuItem.Name = "vendaToolStripMenuItem";
-            this.vendaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.vendaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.vendaToolStripMenuItem.Text = "Venda";
+            // 
+            // lb_EmCartaz
+            // 
+            this.lb_EmCartaz.AutoSize = true;
+            this.lb_EmCartaz.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_EmCartaz.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.lb_EmCartaz.Location = new System.Drawing.Point(81, 246);
+            this.lb_EmCartaz.Name = "lb_EmCartaz";
+            this.lb_EmCartaz.Size = new System.Drawing.Size(88, 18);
+            this.lb_EmCartaz.TabIndex = 2;
+            this.lb_EmCartaz.Text = "Em cartaz";
             // 
             // pictureBox17
             // 
@@ -439,7 +439,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::cinema.Properties.Resources.Pixar_Lightyear_Image;
-            this.pictureBox2.Location = new System.Drawing.Point(354, 44);
+            this.pictureBox2.Location = new System.Drawing.Point(440, 44);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(417, 220);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
