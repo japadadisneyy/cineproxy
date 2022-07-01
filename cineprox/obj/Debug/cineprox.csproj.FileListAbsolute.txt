@@ -1,0 +1,15 @@
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\cineprox.exe.config
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\cineprox.exe
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\cineprox.pdb
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.csproj.AssemblyReference.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.Form1.resources
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.Properties.Resources.resources
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.csproj.GenerateResource.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.csproj.CoreCompileInputs.cache
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.csproj.CopyComplete
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.exe
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\obj\Debug\cineprox.pdb
+C:\Users\SANTOS-PRIMOFERREIRA\source\repos\cineprox\cineprox\bin\Debug\Resources\tv-television.gif
